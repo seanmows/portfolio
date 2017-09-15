@@ -6,7 +6,7 @@ config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
 googleAnalytics = ""
-disqusShortname = "tomanistor"
+disqusShortname = "SeanMowrey"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
@@ -17,8 +17,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     logoSmall = "/images/osprey-logo.png"
     favicon = "favicon.ico"
     opengraphImage = "/images/osprey.png"
-    twitter = "TomaNistor"
-    linkedin = "tomanistor"
+    linkedin = "seanmowz"
     github = "seanmowz"
     email = ""
     googleTagManager = ""
